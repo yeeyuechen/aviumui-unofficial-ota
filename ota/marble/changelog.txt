@@ -1,0 +1,4 @@
+CN:
+- 为ACE5用户更新设备名称/蓝牙名称/USB名称
+EN:
+- Updtae BT/Device/USB Name for CN Users
