@@ -1,4 +1,14 @@
-CN:
-- 为ACE5用户更新设备名称/蓝牙名称/USB名称
-EN:
-- Updtae BT/Device/USB Name for CN Users
+AviumUI 16
+
+    AviumUI-marble-20260114
+    A16|marble|user|test-key|GMS|Unofficial 
+    Build by BAKA_9
+
+更新内容：
+
+    更换eng为user
+    同步了AviumUI的最新源码，支持人脸识别
+    添加了OTA支持，可在线更新
+
+
+By 一叶知秋BAKA
