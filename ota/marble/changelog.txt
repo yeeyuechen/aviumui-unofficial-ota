@@ -1,6 +1,6 @@
 AviumUI 16
 
-    AviumUI-marble-20260114
+    AviumUI-marble
     A16|marble|user|test-key|GMS|Unofficial 
     Build by BAKA_9
 
