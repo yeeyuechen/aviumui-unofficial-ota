@@ -5,10 +5,13 @@ AviumUI 16
     Build by BAKA_9
 
 更新内容：
+    20260115
+        设置TARGET_ENABLE_BLUR为true
 
-    更换eng为user
-    同步了AviumUI的最新源码，支持人脸识别
-    添加了OTA支持，可在线更新
+    20260114
+        更换eng为user
+        同步了AviumUI的最新源码，支持人脸识别
+        添加了OTA支持，可在线更新
 
 
 By 一叶知秋BAKA
